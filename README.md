@@ -9,7 +9,7 @@ Placeholder are
 
 ## What it does
 
-FEATURES PLACEHOLDER
+
 
 ## Getting started
 
