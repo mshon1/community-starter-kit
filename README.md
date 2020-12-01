@@ -1,6 +1,6 @@
 # welcome bot: A Probot App
 
-Placeholders are
+Placeholder are
 
 - characters
 - words
