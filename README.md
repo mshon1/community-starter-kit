@@ -1,6 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Placeholders are
+
+- characters
+- words
+- strings
+
 
 ## What it does
 
