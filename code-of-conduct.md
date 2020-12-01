@@ -1,3 +1,3 @@
 CONTRIBUTOR CODE
 
-[mshon1@ocdsb]
+[mshon1@ocdsb.ca]
